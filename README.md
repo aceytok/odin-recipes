@@ -1,1 +1,1 @@
-This is a basic website, without CSS, to improve foundational HTML skills/knowledge.
+This is a basic website with simple recipes, without CSS and using links, ordered and unordered lists, and images, to improve foundational HTML skills/knowledge.
