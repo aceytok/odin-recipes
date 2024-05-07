@@ -1,0 +1,1 @@
+This is a basic website, without CSS, to improve foundational HTML skills/knowledge.
